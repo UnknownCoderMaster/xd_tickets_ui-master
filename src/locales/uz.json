@@ -1,0 +1,61 @@
+{
+  "navbar": {
+    "home":"Bosh sahifa",
+    "placard": "Afisha",
+    "about": "Biz haqimizda",
+    "ticket": "Chiptalar",
+    "news": "Yangiliklar",
+    "contact": "Kontakt"
+  },
+  "header":{
+    "choose":"TADBIRLAR VA CHIPTALARNI TANLANG",
+    "chooseText":"faqat bir nechta tugmalar orqali",
+    "buy":"TASHKILOTCHILARDAN XARID QILISH",
+    "buyText":"onlayn to'lov yoki yetkazib berishda naqd to'lash",
+    "ticket":"CHIPTALAR OLISH",
+    "ticketText":"elektron pochta orqali yoki to'g'ridan-to'g'ri eshik oldida"
+  },
+  "upcoming":"Kelgusi konsertlar",
+  "sponsor":"HOMIYLAR",
+  "buy":"Sotib olish",
+  "detail":"Batafsil",
+  "footer": {
+    "title": "TicketBox - bu kontsertlar, konferentsiyalar, tadbirlar, uchrashuvlar va ko'rgazmalar uchun veb-sayt yaratilgan. Ushbu veb-sayt sizga biletlarni onlayn tarzda sotib olishga yordam beradi.",
+    "phone": "Telefon",
+    "email": "Email",
+    "post": "OXIRGI POSTLAR",
+    "home":"Bosh sahifa",
+    "placard": "Afisha",
+    "ticket": "Biletlar",
+    "news": "Yangiliklar",
+    "contact": "Kontakt"
+  },
+  "contact":{
+    "title":"BIZ BILAN BOG'LANISH",
+    "text":"Aloqada bo'ling",
+    "message":"Arizangizni qoldiring",
+    "name":"Ismingiz*",
+    "email":"Email*",
+    "phone":"Telefon raqam*",
+    "subject":"Mavzu*",
+    "letter":"Xabar*",
+    "send":"Yuborish    "
+  },
+  "ticket":{
+    "title":"CHIPTALAR RO'YXATI",
+    "text":"Mavjud chiptalar ro'yxati",
+    "head":"Chiptalar"
+  },
+  "news":{
+    "title":"YANGILIKLAR",
+    "text":"Eng so'nggi yangiliklar",
+    "head":"Yangiliklar"
+  },
+  "search":{
+    "title":"SEARCH",
+    "text":"Qidiruv natijalari",
+    "head":"Qidiruv natijalari",
+    "error":"bo'yicha hech qanday natija topilmadi."
+  }
+
+}

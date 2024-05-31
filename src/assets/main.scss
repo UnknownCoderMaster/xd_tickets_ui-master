@@ -1,0 +1,41 @@
+@import "node_modules/vue-vanilla-datetime-picker/dist/DateTimePicker";
+
+:root {
+  --main-color: #72c064;
+  --admin-color: #0f172a;
+}
+
+.responsive__style {
+  width: 1170px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto !important;
+  padding: 0;
+}
+
+@media screen and (max-width: 1264px) {
+  .responsive__style {
+    width: 990px;
+  }
+}
+
+@media screen and (max-width: 1120px) {
+  .responsive__style {
+    width: 950px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .responsive__style {
+    width: 880px;
+  }
+}
+
+@media screen and (max-width: 959px) {
+  .responsive__style {
+    width: 100%;
+  }
+}
+
+
